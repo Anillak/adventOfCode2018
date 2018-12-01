@@ -1,5 +1,6 @@
 from unittest import TestCase
-from day1 import *
+
+from day1.find_frequency import *
 
 
 class TestFindFrequency(TestCase):
